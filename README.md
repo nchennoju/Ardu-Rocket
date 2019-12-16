@@ -5,4 +5,4 @@ Current Verion does not incoporate PID. PID will be incorporated before flight t
 
 Links to 3D parts necessary for model rocket / intructions on build will be provided soon.
 
-![Test Image 4](https://drive.google.com/file/d/1N-_MU0clL39WQwxKOS6urHQkPo65MSnr/view?usp=sharing)
+![Test Image 4](https://github.com/nchennoju/Ardu-Rocket/blob/master/rocketCADMark1.jpg)
